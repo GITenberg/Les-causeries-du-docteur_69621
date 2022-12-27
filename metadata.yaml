@@ -1,0 +1,27 @@
+_repo: Les-causeries-du-docteur_69621
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Joulin, Désiré-Joseph
+    gutenberg_agent_id: '55345'
+    url: http://www.gutenberg.org/2009/agents/55345
+description: ''
+gutenberg_issued: '2022-12-23'
+identifiers:
+  gutenberg: '69621'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k97815408
+pgterms:marc905: 20201110121048joulin
+pgterms:marc906: '1868'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: 'France: Didier et cie,1868.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les causeries du docteur
+url: http://www.gutenberg.org/ebooks/69621
