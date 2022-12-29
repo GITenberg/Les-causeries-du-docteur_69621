@@ -1,11 +1,16 @@
 _repo: Les-causeries-du-docteur_69621
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69621-h/images/cover.jpg
 creator:
   author:
     agent_name: Joulin, Désiré-Joseph
     gutenberg_agent_id: '55345'
     url: http://www.gutenberg.org/2009/agents/55345
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69621#Les-causeries-du-docteur
 gutenberg_issued: '2022-12-23'
 identifiers:
   gutenberg: '69621'
